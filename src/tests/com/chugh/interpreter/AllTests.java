@@ -1,4 +1,4 @@
-package tests.com.hoppr.interpreter;
+package tests.com.chugh.interpreter;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;

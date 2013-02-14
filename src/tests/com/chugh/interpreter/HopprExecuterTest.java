@@ -1,4 +1,4 @@
-package tests.com.hoppr.interpreter;
+package tests.com.chugh.interpreter;
 
 import java.util.ArrayList;
 
@@ -8,10 +8,10 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.hoppr.Block;
-import com.hoppr.Executer;
-import com.hoppr.HopprExecuter;
-import com.hoppr.Statement;
+import com.chugh.Block;
+import com.chugh.Executer;
+import com.chugh.HopprExecuter;
+import com.chugh.Statement;
 
 public class HopprExecuterTest {
 

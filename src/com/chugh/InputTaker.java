@@ -1,4 +1,4 @@
-package com.hoppr;
+package com.chugh;
 
 import java.util.LinkedList;
 import java.util.Scanner;

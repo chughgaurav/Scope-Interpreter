@@ -1,10 +1,10 @@
-package tests.com.hoppr.interpreter;
+package tests.com.chugh.interpreter;
 
 import junit.framework.Assert;
 
 import org.junit.Test;
 
-import com.hoppr.Utility;
+import com.chugh.Utility;
 
 public class UtilityTest {
 

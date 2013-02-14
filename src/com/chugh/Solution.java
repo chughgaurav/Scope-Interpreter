@@ -1,4 +1,4 @@
-package com.hoppr;
+package com.chugh;
 
 public class Solution {
 
